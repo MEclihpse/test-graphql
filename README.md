@@ -18,3 +18,7 @@ to run with express in /graphql endpoint
 To run on normal mode or standalone mode
 - `npm run standalone`
 - `or npx sequelize app.js`
+
+## How to Test
+go to apollo sandbox
+- `https://studio.apollographql.com/sandbox/explorer`
